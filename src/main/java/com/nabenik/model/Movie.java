@@ -17,7 +17,7 @@ public class Movie implements Serializable {
     @Column
     private String title;
 
-    @Column
+    @Column(name="movie_year")
     private String year;
 
     @Column
