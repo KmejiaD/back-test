@@ -25,7 +25,7 @@ The document is structured using [GitHub Markdown Flavor](https://github.com/ada
 2. Please enumerate al least 3 Java EE APIs being used at this project, also define it's main objective
    >Enterprise JavaBeans (EJB): Allows the use JavaBeans to make units of related logic that can be grouped together. 
 
-   >JavaServer Pages (JSP): Allows to add sections of servlet code into text documents like HTML
+   >JAX-RS: Allows the implementation of REST web services throw annotations
 
    >Java Persistence API (JPA): Allows the use of a ORM, including a special query language and maping of data to objects  
 
